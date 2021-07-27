@@ -5,12 +5,22 @@
   <span>Ao digitar a cidade desejada, o aplicativo te mostra a temperatura atual, também como a sensação térmica e temperatura minima | máxima</span>
 </p>
 
+<p align="center">
+  <img src="src/assets/home.jpeg" alt="">
+</p>
 
+<p align="center">
+  <img src="src/assets/home-sun.jpeg" alt="">
+</p>
+
+<p align="center">
+  <img src="src/assets/home-cold.jpeg" alt="">
+</p>
 
 
 ### Site 💻
 
-- [Weather App](https://climatempo-app.netlify.app/)
+- [Clima Tempo App](https://climatempo-app.netlify.app/)
 
 ## Biblioteca: 📙
 - REACT
